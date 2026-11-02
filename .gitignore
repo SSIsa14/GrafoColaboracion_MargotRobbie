@@ -1,0 +1,4 @@
+tmdb_key.txt
+.venv/
+.ipynb_checkpoints/
+__pycache__/
